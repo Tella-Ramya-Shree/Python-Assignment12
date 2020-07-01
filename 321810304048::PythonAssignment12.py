@@ -1,7 +1,6 @@
 ##1.What is dictionary in Python? Explain with an example.
 #   Dictionary in Python is an unordered collection of data values , used to store data values in key:value pairs(key/value pairs.)
 #   Example :
-
 # Creating a dictionary with Integer keys :::
 Dict = {1:'Python' , 2:'program'}
 print("\nDictionary with the use of Integer keys:")
